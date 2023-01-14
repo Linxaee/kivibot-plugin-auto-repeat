@@ -6,9 +6,9 @@
     "main": "lib/index.js",
     "repository": {
         "type": "git",
-        "url": "git://github.com/Linxaee/"
+        "url": "git://github.com/Linxaee/kivibot-plugin-auto-repeat"
     },
-    "homepage": "",
+    "homepage": "https://github.com/Linxaee/kivibot-plugin-auto-repeat/blob/master/README.md",
     "author": "Linxae (https://github.com/Linxaee)",
     "scripts": {
         "dev": "tsc && (concurrently \"tsc -w\" \"tsc-alias -w\")",
